@@ -1,0 +1,2 @@
+# PractiseJS
+JS code basic
